@@ -25,5 +25,5 @@ Open `index.html` in a browser, or run `python3 -m http.server 8000`.
 
 ## Contact
 - Email: moebr2725@gmail.com
-- LinkedIn: https://linkedin.com/in/mohamed-ibrahem-cyber
+- LinkedIn: https://www.linkedin.com/in/m-i2725
 - GitHub: https://github.com/0xviber
